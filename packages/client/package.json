@@ -33,14 +33,14 @@
     "react-icons": "^3.6.1",
     "react-modal": "^3.8.1",
     "react-pose": "^4.0.8",
-    "screenfull": "^4.2.0",
+    "screenfull": "^5.0.0",
     "webslides": "^1.4.2"
   },
   "devDependencies": {
     "@babel/core": "7.9.6",
-    "@storybook/addon-viewport": "5.3.21",
-    "@storybook/cli": "5.3.21",
-    "@storybook/react": "5.3.21",
+    "@storybook/addon-viewport": "6.0.21",
+    "@storybook/cli": "6.0.21",
+    "@storybook/react": "6.0.21",
     "babel-loader": "8.1.0"
   }
 }
