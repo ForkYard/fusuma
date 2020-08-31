@@ -37,7 +37,7 @@
     "webslides": "^1.4.2"
   },
   "devDependencies": {
-    "@babel/core": "7.9.6",
+    "@babel/core": "7.11.5",
     "@storybook/addon-viewport": "5.3.21",
     "@storybook/cli": "5.3.21",
     "@storybook/react": "5.3.21",
